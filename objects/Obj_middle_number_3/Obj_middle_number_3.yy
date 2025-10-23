@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Object1",
+  "%Name":"Obj_middle_number_3",
   "eventList":[],
   "managed":true,
-  "name":"Object1",
+  "name":"Obj_middle_number_3",
   "overriddenProperties":[],
   "parent":{
     "name":"turn-game-ai",
@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"Spr_middle_number_3",
+    "path":"sprites/Spr_middle_number_3/Spr_middle_number_3.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
